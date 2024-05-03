@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I am a Cloud Engineer working in Sweden where I provide consulting and training to customers and colleagues on a daily basis. After spending close to 10 years in the IT industry I have been working with several different types of products and environments ranging from managing windows server & Active Directory environments, Citrix VDI & Netscaler infrastructure, Microsoft 365 products, Entra ID and it's security features and finally I am spending my day implementing and designing Azure Environments.
+- 🌱 I’m currently a Microsoft Azure MVP with focus on Infrastructure as Code.
 - ⚡ Besides tech I love strength training, sports and hanging out with friends and family! <3 
 
 <!--
